@@ -1,8 +1,3 @@
-Here's an updated version of your README with emojis and a visually appealing structure:
-
----
-
-```markdown
 # 📚 An Interactive Academic Paper Management and Retrieval Chatbot with RAG & LLMs 🤖
 
 ## 🎯 Objective
@@ -101,14 +96,3 @@ Develop a chatbot that utilizes **Retrieval-Augmented Generation (RAG)**, **AI a
 
 ⚡ **Stay tuned for updates!** 🚀  
 📩 *Feel free to contribute, suggest features, or ask questions!*  
-```
-
----
-
-### 🔥 What's New?
-✅ Added emojis for **visual appeal**  
-✅ Highlighted **important sections** with icons  
-✅ Structured **roadmap** for clarity  
-✅ Made it **engaging & easier to read**  
-
-🚀 Now you can **copy & paste** this into your GitHub README for a cool, interactive feel! 🎉
